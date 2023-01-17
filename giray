@@ -1,1 +1,100 @@
-WRSK = 0
+WRSK = 1
+
+--discord.gg/hile
+--Made By 🔱 LasTPoinT#1592🔱
+gameversion = "1.36.0.f2060"
+menu = "❏ "..bit.." ʙɪᴛ ᴍᴇɴᴜ"
+DESCRALL = "❏ LasTPoinT ᴠɪᴘ sᴄʀɪᴘᴛ 🔱\n❏ "..menu.."\n❏ ᴄᴏᴘꜱ ᴠᴇʀꜱɪᴏɴ :【"..gameversion.."】"
+
+
+il2cpp32 = "7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00 03 00 28 00 01 00 00 00 00 00 00 00 34 00 00 00 78 3b a3 02 00 02 00 05"
+
+il2cpp64 = "7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 03 00 b7 00 01 00 00 00 f0 22 7e 00 00 00 00 00 40 00 00 00 00 00 00 00"
+
+
+if bit == 32 then
+bypass0 = 0xDFD13C
+bypass1 = 0x1B17604
+bypass2 = 0x1B2C5D4
+bypass3 = 0x1B2C988
+bypass4 = 0x1AD44D8
+bypass5 = 0x2050B8C
+bypass6 = 0x1C43154
+bypass7 = 0x1C432A8
+radaresp = 0xDF6768
+redradar = 0x1AFC224
+Tr1 = 0x1AFC4B4
+Tr2 = 0x1BB61D0
+norec = 0x201688C
+sprd = 0x20195C0
+aimpnch = 0x1A0DA8C
+armorspeed = 0x2019D7C
+speed = 0x2018D60
+hdrai = 0xE13FCC
+byrai = 0xE13FCC 
+noflsh = 0xE12368
+nosmk = 0xD7FC78 
+wollbng = 0xE13234
+crossh = 0x1642114
+blur = 0x1A00BC0
+walkwall = 0x1A10944
+tutorialpas1 = 0x22EEC28
+tutorialpas2 = 0x22EE1C8
+tutorialpas3 = 0x22EEE88
+tutorialpas4 = 0x22EE000
+tutorialpas5 = 0x22EDE38
+ptban1 = 0x21AC2A0 
+ptban2 = 0x21AC540 
+plywhlbn = 0x21AC8C8 
+dambbots = 0x1CF3DE4 
+wteam = 0xDF5CA8
+fkduck = 0x1B004D8 
+stickman = 0x1BB85A4
+bunnyhop = 0x1BB85B8
+reloading = 0x1A0D65C
+suppressor = 0x16422A4
+namespoofer = 0x1F1AD30
+end
+
+if bit == 64 then
+bypass1 = 0x1B76D44
+bypass2 = 0x1B84B64
+bypass3 = 0x1B84E34
+bypass4 = 0x1B42228
+bypass5 = 0x1FA2E7C
+bypass6 = 0x1C69EFC 
+bypass7 = 0x1C6A014 
+radaresp = 0x111BE8C
+redradar = 0x1B61938
+Tr1 = 0x1B61B30
+Tr2 = 0x1BF85D8 
+norec = 0x1F70254
+sprd = 0x1F723F4
+aimpnch = 0x1AA7140
+armorspeed = 0x1F727F0
+speed = 0x1F71EDC
+hdrai = 0x11310BC
+byrai = 0x11310BC
+noflsh = 0x112FC04
+nosmk = 0xC39E68
+wollbng = 0x1130728
+crossh = 0x17952BC
+blur = 0x1A9DA98
+walkwall = 0x1AA9368
+tutorialpas1 = 0x21C2F64
+tutorialpas2 = 0x21C26AC
+tutorialpas3 = 0x21C3128
+tutorialpas4 = 0x21C257C 
+tutorialpas5 = 0x21C244C 
+ptban1 = 0x20C48D8
+ptban2 = 0x20C4AD4
+plywhlbn = 0x20C4DCC 
+dambbots = 0x1CF36C0 
+wteam = 0x111B798 
+fkduck = 0x1B64B04 
+stickman = 0x1BF9EFC 
+bunnyhop = 0x1BF9F08 
+reloading = 0x1AA6E04 
+suppressor = 0x1795458
+namespoofer = 0x1EB3578
+end
