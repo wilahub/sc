@@ -1,8 +1,8 @@
 WRSK = 1
 --discord.gg/hile
 --Made By 🔱 LasTPoinT#1592🔱
-local Name = {"Giray"}
-local Token = {"3119"}
+Name = {"Giray"}
+Token = {"3119"}
 gameversion = "1.36.0.f2060"
 menu = "❏ "..bit.." ʙɪᴛ ᴍᴇɴᴜ"
 DESCRALL = "❏ LasTPoinT ᴠɪᴘ sᴄʀɪᴘᴛ 🔱\n❏ "..menu.."\n❏ ᴄᴏᴘꜱ ᴠᴇʀꜱɪᴏɴ :【"..gameversion.."】"
