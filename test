@@ -2,8 +2,8 @@ WRSK = 1
 
 --discord.gg/hile
 --Made By 🔱 LasTPoinT#1592🔱
-local Name = {"Wila"}
-local Token = {"2023"}
+Name = {"Wila"}
+Token = {"2023"}
 gameversion = "1.36.0.f2060"
 menu = "❏ "..bit.." ʙɪᴛ ᴍᴇɴᴜ"
 DESCRALL = "❏ LasTPoinT ᴠɪᴘ sᴄʀɪᴘᴛ 🔱\n"..menu.."\n❏ ᴄᴏᴘꜱ ᴠᴇʀꜱɪᴏɴ :【"..gameversion.."】"
