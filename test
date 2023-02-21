@@ -1,0 +1,5 @@
+if Username == 10 then
+tester = "31"
+else
+tester = "52"
+end
